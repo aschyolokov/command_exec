@@ -1,0 +1,16 @@
+{
+  "name": "command_executer",
+  "version": "1.0.0",
+  "author": "Aleksander Schyolokov",
+  "scripts": {
+    "start": ""
+  },
+  "packageManager": "yarn@3.2.2",
+  "dependencies": {
+    "inquirer": "8.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "8.2.0",
+    "@types/node": "^17.0.14"
+  }
+}
